@@ -6,7 +6,7 @@ Many of the projects are hosted on ETC's ETCLabs github page at: https://github.
 Projects discussed accessible on the web included:
 - Lightwright 6 https://www.mckernon.com
 - iRFR/aRFR (Available on Apple Apps Store and Google Play Store)
-- TouchOSC https://hexler.net (requires Java)
+- TouchOSC https://hexler.net/software/touchosc (requires Java)
 - OSCWidgets https://github.com/etclabs/oscwidgets
 - OSCRouter https://github.com/etclabs/oscrouter
 - #lighthack https://github.com/etclabs/lighthack (required software listed in box1 setup guide)
