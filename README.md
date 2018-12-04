@@ -1,4 +1,4 @@
-#Let's Chat About OSC
+# Let's Chat About OSC
 The materials on this Github repository were presented at the ETC NYC "First Monday of the Month" event in December 2018. 
 
 Many of the projects are hosted on ETC's ETCLabs github page at: https://github.com/etclabs
