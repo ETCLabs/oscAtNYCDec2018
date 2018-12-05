@@ -1,0 +1,15 @@
+* linguist-vendored
+
+##MS OFFICE
+*.docx binary
+*.pptx binary
+
+##TEXT
+*.md text
+*.lpr text
+
+##TOUCHOSC
+*.touchosc binary
+
+##EOS
+*.esf binary
